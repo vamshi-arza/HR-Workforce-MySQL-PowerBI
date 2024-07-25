@@ -4,6 +4,16 @@
 
 ![dashboard](https://github.com/user-attachments/assets/bcc3effc-c6f3-4652-a4f4-b9e0f1d75c1b)
 
+### Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data and Tools Used](#data-and-tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This project entails analyzing an HR dataset using MySQL to clean data, perform exploratory data analysis, and derive workforce insights. The dataset includes employee details like IDs, birthdates, hire dates, termination dates, gender, race, and job information. Key tasks included standardizing dates, calculating ages, and running EDA queries to explore gender and race distributions, age groups, employment locations, job title distribution, departmental turnover rates, and changes in employee count over time. The analysis helps HR departments in making informed hiring, retention, and workforce management decisions.
